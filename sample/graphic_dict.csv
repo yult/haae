@@ -1,0 +1,13 @@
+﻿table_name,table_biz,var_name,var_biz,var_type
+targetInfo,target information,code_module,the module identification code,id
+targetInfo,target information,code_presentation,the presentation identification code,id
+targetInfo,target information,id_student,the unique student identification number,id
+targetInfo,target information,target,student exam label,target
+studentInfo,demographic information,gender,student’s gender,categorical
+studentInfo,demographic information,region,"the geographic region, where the student lived while taking the module-presentation",categorical
+studentInfo,demographic information,highest_education,the highest student education level on entry to the module presentation,categorical
+studentInfo,demographic information,imd_band,the IMD band of the place where the student lived during the module-presentation,categorical
+studentInfo,demographic information,age_band,a band of student’s age,categorical
+studentInfo,demographic information,num_of_prev_attempts,the number of how many times the student has attempted this module,numerical
+studentInfo,demographic information,studied_credits,the total number of credits for the modules the student is currently studying,numerical
+studentInfo,demographic information,disability,indicates whether the student has declared a disability,categorical

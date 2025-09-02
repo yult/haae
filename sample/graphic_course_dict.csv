@@ -1,0 +1,26 @@
+﻿table_name,table_biz,var_name,var_biz,var_type
+targetInfo,target information,code_module,the module identification code,id
+targetInfo,target information,code_presentation,the presentation identification code,id
+targetInfo,target information,id_student,the unique student identification number,id
+targetInfo,target information,target,student exam label,target
+studentInfo,demographic information,gender,student’s gender,categorical
+studentInfo,demographic information,region,"the geographic region, where the student lived while taking the module-presentation",categorical
+studentInfo,demographic information,highest_education,the highest student education level on entry to the module presentation,categorical
+studentInfo,demographic information,imd_band,the IMD band of the place where the student lived during the module-presentation,categorical
+studentInfo,demographic information,age_band,a band of student’s age,categorical
+studentInfo,demographic information,num_of_prev_attempts,the number of how many times the student has attempted this module,numerical
+studentInfo,demographic information,studied_credits,the total number of credits for the modules the student is currently studying,numerical
+studentInfo,demographic information,disability,indicates whether the student has declared a disability,categorical
+studentRegistration,course information,Presentation_type,The presentation type(B or J) ,categorical
+studentRegistration,course information,reg_in_mod_AAA,Whether the student has registered in course module AAA,numerical
+studentRegistration,course information,reg_in_mod_BBB,Whether the student has registered in course module BBB,numerical
+studentRegistration,course information,reg_in_mod_CCC,Whether the student has registered in course module CCC,numerical
+studentRegistration,course information,reg_in_mod_DDD,Whether the student has registered in course module DDD,numerical
+studentRegistration,course information,reg_in_mod_EEE,Whether the student has registered in course module EEE,numerical
+studentRegistration,course information,reg_in_mod_FFF,Whether the student has registered in course module FFF,numerical
+studentRegistration,course information,reg_in_mod_GGG,Whether the student has registered in course module GGG,numerical
+studentRegistration,course information,num_of_social_sciences_mod,the total number of Social Sciences courses in which the student has formally registered,numerical
+studentRegistration,course information,num_of_STEM_mod,the total number of STEM courses in which the student has formally registered,numerical
+studentRegistration,course information,num_of_mod,the total number of courses in which the student has formally registered,numerical
+studentRegistration,course information,prop_of_social_sciences_mod,The total proportion of Social Sciences courses in which the student has formally registered,numerical
+studentRegistration,course information,prop_of_STEM_mod,the total proportion of STEM courses in which the student has formally registered,numerical

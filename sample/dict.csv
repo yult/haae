@@ -1,0 +1,94 @@
+﻿table_name,table_biz,var_name,var_biz,var_type
+targetInfo,target information,code_module,the module identification code,id
+targetInfo,target information,code_presentation,the presentation identification code,id
+targetInfo,target information,id_student,the unique student identification number,id
+targetInfo,target information,target,student exam label,target
+studentInfo,demographic information,gender,student’s gender,categorical
+studentInfo,demographic information,region,"the geographic region, where the student lived while taking the module-presentation",categorical
+studentInfo,demographic information,highest_education,the highest student education level on entry to the module presentation,categorical
+studentInfo,demographic information,imd_band,the IMD band of the place where the student lived during the module-presentation,categorical
+studentInfo,demographic information,age_band,a band of student’s age,categorical
+studentInfo,demographic information,num_of_prev_attempts,the number of how many times the student has attempted this module,numerical
+studentInfo,demographic information,studied_credits,the total number of credits for the modules the student is currently studying,numerical
+studentInfo,demographic information,disability,indicates whether the student has declared a disability,categorical
+studentRegistration,course information,Presentation_type,The presentation type(B or J) ,categorical
+studentRegistration,course information,reg_in_mod_AAA,Whether the student has registered in course module AAA,numerical
+studentRegistration,course information,reg_in_mod_BBB,Whether the student has registered in course module BBB,numerical
+studentRegistration,course information,reg_in_mod_CCC,Whether the student has registered in course module CCC,numerical
+studentRegistration,course information,reg_in_mod_DDD,Whether the student has registered in course module DDD,numerical
+studentRegistration,course information,reg_in_mod_EEE,Whether the student has registered in course module EEE,numerical
+studentRegistration,course information,reg_in_mod_FFF,Whether the student has registered in course module FFF,numerical
+studentRegistration,course information,reg_in_mod_GGG,Whether the student has registered in course module GGG,numerical
+studentRegistration,course information,num_of_social_sciences_mod,the total number of Social Sciences courses in which the student has formally registered,numerical
+studentRegistration,course information,num_of_STEM_mod,the total number of STEM courses in which the student has formally registered,numerical
+studentRegistration,course information,num_of_mod,the total number of courses in which the student has formally registered,numerical
+studentRegistration,course information,prop_of_social_sciences_mod,The total proportion of Social Sciences courses in which the student has formally registered,numerical
+studentRegistration,course information,prop_of_STEM_mod,the total proportion of STEM courses in which the student has formally registered,numerical
+studentVle,vle information,num_of_click_vle,The number of times the student interacted with the VLE,numerical
+studentVle,vle information,num_of_day_vle,the number of days the student interacted with the VLE,numerical
+studentVle,vle information,avg_of_click_vle,average daily VLE engagement frequency,numerical
+studentVle,vle information,num_of_click_vle,The number of times the student interacted with the VLE,numerical
+studentVle,vle information,num_of_day_vle,the number of days the student interacted with the VLE,numerical
+studentVle,vle information,avg_of_click_vle,average daily VLE engagement frequency,numerical
+studentVle,vle information,num_of_click_resource,The number of times the student has interacted with resources,numerical
+studentVle,vle information,num_of_click_oucontent,The number of times the student has interacted with oucontents,numerical
+studentVle,vle information,num_of_click_url,The number of times the student has interacted with URLs,numerical
+studentVle,vle information,num_of_click_homepage,The number of times the student has interacted with homepages,numerical
+studentVle,vle information,num_of_click_subpage,The number of times the student has interacted with subpages,numerical
+studentVle,vle information,num_of_click_glossary,The number of times the student has interacted with glossaries,numerical
+studentVle,vle information,num_of_click_forumng,The number of times the student has interacted with forums,numerical
+studentVle,vle information,num_of_click_oucollaborate,The number of times the student has interacted with oucollaborates,numerical
+studentVle,vle information,num_of_click_dataplus,The number of times the student has interacted with data visualizations,numerical
+studentVle,vle information,num_of_click_quiz,The number of times the student has interacted with quizzes,numerical
+studentVle,vle information,num_of_click_ouelluminate,The number of times the student has interacted with ouelluminates,numerical
+studentVle,vle information,num_of_click_sharedsubpage,The number of times the student has interacted with sharedsubpages,numerical
+studentVle,vle information,num_of_click_questionnaire,The number of times the student has interacted with questionnaires,numerical
+studentVle,vle information,num_of_click_page,The number of times the student has interacted with pages,numerical
+studentVle,vle information,num_of_click_externalquiz,The number of times the student has interacted with external quizzes,numerical
+studentVle,vle information,num_of_click_ouwiki,The number of times the student has interacted with ouwikis,numerical
+studentVle,vle information,num_of_click_dualpane,The number of times the student has interacted with dual-pane layouts,numerical
+studentVle,vle information,num_of_click_repeatactivity,The number of times the student has interacted with repeatable activities,numerical
+studentVle,vle information,num_of_click_folder,The number of times the student has interacted with folders,numerical
+studentVle,vle information,num_of_click_shtmlactivity,The number of times the student has interacted with shtmlactivities,numerical
+studentVle,vle information,num_of_day_resource,The number of days the student has interacted with resources,numerical
+studentVle,vle information,num_of_day_oucontent,The number of days the student has interacted with oucontents,numerical
+studentVle,vle information,num_of_day_url,The number of days the student has interacted with URLs,numerical
+studentVle,vle information,num_of_day_homepage,The number of days the student has interacted with homepages,numerical
+studentVle,vle information,num_of_day_subpage,The number of days the student has interacted with subpages,numerical
+studentVle,vle information,num_of_day_glossary,The number of days the student has interacted with glossaries,numerical
+studentVle,vle information,num_of_day_forumng,The number of days the student has interacted with forums,numerical
+studentVle,vle information,num_of_day_oucollaborate,The number of days the student has interacted with oucollaborates,numerical
+studentVle,vle information,num_of_day_dataplus,The number of days the student has interacted with data visualizations,numerical
+studentVle,vle information,num_of_day_quiz,The number of days the student has interacted with quizzes,numerical
+studentVle,vle information,num_of_day_ouelluminate,The number of days the student has interacted with ouelluminates,numerical
+studentVle,vle information,num_of_day_sharedsubpage,The number of days the student has interacted with sharedsubpages,numerical
+studentVle,vle information,num_of_day_questionnaire,The number of days the student has interacted with questionnaires,numerical
+studentVle,vle information,num_of_day_page,The number of days the student has interacted with pages,numerical
+studentVle,vle information,num_of_day_externalquiz,The number of days the student has interacted with external quizzes,numerical
+studentVle,vle information,num_of_day_ouwiki,The number of days the student has interacted with ouwikis,numerical
+studentVle,vle information,num_of_day_dualpane,The number of days the student has interacted with dual-pane layouts,numerical
+studentVle,vle information,num_of_day_repeatactivity,The number of days the student has interacted with repeatable activities,numerical
+studentVle,vle information,num_of_day_folder,The number of days the student has interacted with folders,numerical
+studentVle,vle information,num_of_day_shtmlactivity,The number of days the student has interacted with shtmlactivities,numerical
+studentVle,vle information,avg_of_click_resource,The average daily times the student has interacted with resources,numerical
+studentVle,vle information,avg_of_click_oucontent,The average daily times the student has interacted with oucontents,numerical
+studentVle,vle information,avg_of_click_url,The average daily times the student has interacted with URLs,numerical
+studentVle,vle information,avg_of_click_homepage,The average daily times the student has interacted with homepages,numerical
+studentVle,vle information,avg_of_click_subpage,The average daily times the student has interacted with subpages,numerical
+studentVle,vle information,avg_of_click_glossary,The average daily times the student has interacted with glossaries,numerical
+studentVle,vle information,avg_of_click_forumng,The average daily times the student has interacted with forums,numerical
+studentVle,vle information,avg_of_click_oucollaborate,The average daily times the student has interacted with oucollaborates,numerical
+studentVle,vle information,avg_of_click_dataplus,The average daily times the student has interacted with data visualizations,numerical
+studentVle,vle information,avg_of_click_quiz,The average daily times the student has interacted with quizzes,numerical
+studentVle,vle information,avg_of_click_ouelluminate,The average daily times the student has interacted with ouelluminates,numerical
+studentVle,vle information,avg_of_click_sharedsubpage,The average daily times the student has interacted with sharedsubpages,numerical
+studentVle,vle information,avg_of_click_questionnaire,The average daily times the student has interacted with questionnaires,numerical
+studentVle,vle information,avg_of_click_page,The average daily times the student has interacted with pages,numerical
+studentVle,vle information,avg_of_click_externalquiz,The number of times the student has interacted with external quizzes,numerical
+studentVle,vle information,avg_of_click_ouwiki,The average daily times the student has interacted with ouwikis,numerical
+studentVle,vle information,avg_of_click_dualpane,The average daily times the student has interacted with dual-pane layouts,numerical
+studentVle,vle information,avg_of_click_repeatactivity,The average daily times the student has interacted with repeatable activities,numerical
+studentVle,vle information,avg_of_click_folder,The average daily times the student has interacted with folders,numerical
+studentVle,vle information,avg_of_click_shtmlactivity,The average daily times the student has interacted with shtmlactivities,numerical
+studentInfo,assessment information,TMA_score,Tutor Marked Assessment (TMA) score,tuple
+studentInfo,assessment information,CMA_score,Computer Marked Assessment (CMA) score,tuple

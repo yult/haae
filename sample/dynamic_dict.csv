@@ -1,0 +1,7 @@
+table_name,table_biz,var_name,var_biz,var_type
+targetInfo,target information,code_module,the module identification code,id
+targetInfo,target information,code_presentation,the presentation identification code,id
+targetInfo,target information,id_student,the unique student identification number,id
+targetInfo,target information,target,student exam label,target
+studentInfo,assessment information,TMA_score,Tutor Marked Assessment (TMA) score,tuple
+studentInfo,assessment information,CMA_score,Computer Marked Assessment (CMA) score,tuple

@@ -1,0 +1,7 @@
+Feature Set,Feature Number,Model,Optimal Parameters,Train Epochs,Train AUC,Test Accuracy,Test Precision,Test Recall,Test F1 Score,Test AUC,ΔAUC (Train - Test)
+Graphic,8,DNN-G,hidden layer configurations:[160],21,0.6389,0.3475,0.1364,0.821,0.2339,0.5712,0.0677
+Graphic + Course,20,DNN-GC,hidden layer configurations:[120],26,0.6695,0.3928,0.1354,0.7432,0.229,0.5858,0.0837
+Graphic + Course + VLE (all static),80,DNN-ALL,"hidden layer configurations:[120, 60]",62,0.9339,0.7993,0.2143,0.2451,0.2287,0.6565,0.2774
+Dynamic,2,LSTM,"hidden size:160, number of layers:2",14,0.8993,0.7701,0.2862,0.5992,0.3874,0.7960,0.1033
+Dynamic + Static,82,WLF-ED,fusion hidden size:240,25,0.8996,0.8569,0.4243,0.5019,0.4599,0.8435,0.0561
+Dynamic + Static,82,AWLF-ED,fusion hidden size:240,6,0.856,0.8017,0.3454,0.7082,0.4643,0.8554,0.0006
